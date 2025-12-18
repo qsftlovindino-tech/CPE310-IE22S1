@@ -1,44 +1,73 @@
-<h1 align="center"> Fundamentals of Data Science – IE Program</h1>
-<p align="center">
-  <em>Documenting my journey in learning data science, analyzing data, and solving engineering problems!</em>
-</p>
+<html>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21oZ3JpZDZqNjFkYmZwdjF3MXZqeHdocjNpNGZhbmpyYW1vbXduZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Data Science GIF" width="400">
-</p>
+<!-- Visitor Badge -->
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=qsftlovindino-tech.qsftlovindino-tech&right_color=hotpink"  />
+</div>
 
-<h2 align="center">✨ Hi! I’m Samantha ✨</h2>
+<!-- Typing Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=35&pause=1000&color=A34B80&center=true&vCenter=true&width=500&height=70&lines=Hello+there!+I+am+Samantha;Welcome+to+;Fundamentals+of+Data+Science!" 
+      alt="Typing SVG" 
+    />
+  </a>
+</h1>
 
-💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+<!-- About Me Section -->
+<table>
+  <tr>
+    <!-- Left: GIF -->
+    <td>
+      <img 
+        src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
+        alt="Data Science GIF" 
+        width="250"
+        style="display: block;"
+      />
+    <!-- Right: Text -->
+    <td>
+      <p style="display: inline-block; text-align: justify; vertical-align: middle; margin: 0; line-height: 1.4; padding-left: 15px;">
+        I am a <strong>Bachelor of Science in Industrial Engineering student</strong> at the 
+        <strong>Technological Institute of the Philippines – Quezon City</strong>, with strong interests 
+        in <strong>photography, student leadership, and community engagement</strong>. I also enjoy <strong>animals (especially cats)</strong> 
+        and am an avid <strong>coffee drinker</strong>.
+      </p>
+    </td>
+  </tr>
+  </td>
+</table>
 
-<p>
-I’m a <strong>BS Industrial Engineering student</strong> at 
-<strong>Technological Institute of the Philippines – Quezon City</strong> 
-who loves turning <em>messy problems into organized solutions</em>. I enjoy 
-analyzing systems, improving processes, and finding smarter (and sometimes more 
-creative) ways to get things done.
-</p>
+<h1 align="center">Technologies and Tools</h1>
 
-<p>
-When I’m not solving equations, you’ll probably find me 
-<strong>taking photos</strong>, <strong>designing layouts</strong>, or being involved in 
-<strong>student leadership and community initiatives</strong>. I believe that good 
-engineering isn’t just efficient—it should also be <strong>human-centered</strong>, 
-<strong>meaningful</strong>, and <strong>impactful</strong>.
-</p>
+###
 
-<h2 align="center">
-<strong>GitHub Stats:</strong>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
+</div>
 
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=qsftlovindino-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-<img src=https://nirzak-streak-stats.vercel.app/?user=qsftlovindino-tech&theme=dark&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsftlovindino-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=qsftlovindino-tech&icon=2&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qsftlovindino-tech/qsftlovindino-tech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qsftlovindino-tech/qsftlovindino-tech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qsftlovindino-tech/qsftlovindino-tech/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+</html>
