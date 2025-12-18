@@ -38,7 +38,16 @@
   </td>
 </table>
 
-<h1 align="center">Technologies and Tools</h1>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/cc.smntha?igsh=MXVuMHc1dHZtanAydQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">🛠️ Technologies and Tools 🛠️ </h2>
 
 ###
 
@@ -56,13 +65,32 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/cc.smntha?igsh=MXVuMHc1dHZtanAydQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<h2 align="center"> 📊 GitHub Stats 📊 </h2>
 
 ###
+
+<!-- Top Row -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=qsftlovindino-tech&theme=omni&hide_border=false&include_all_commits=false&count_private=false" 
+    alt="GitHub Stats" 
+    width="48%"
+  />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=qsftlovindino-tech&theme=omni&hide_border=false" 
+    alt="GitHub Streak Stats" 
+    width="48%"
+  />
+</p>
+
+<br>
+
+<!-- Bottom Row -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsftlovindino-tech&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages" 
+  />
+</p>
 
 </html>
